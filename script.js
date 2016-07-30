@@ -17,7 +17,7 @@ window.addEventListener("load", function(){
 				tabs[i].style.background = "#C9C9C9";
 			}
 			
-			document.getElementById("id").style.background = "white";
+			this.style.background = "white";
 		});
 	}
 
