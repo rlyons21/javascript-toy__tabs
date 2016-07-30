@@ -1,1 +1,22 @@
-/* Replace me with your styles! */
+body{
+	margin:0;
+	padding:0;
+}
+
+.topContainer{
+	height:70px;
+	width:100%;
+	background-color:#70706E;
+	display:flex;
+	align-items: flex-end;
+}
+
+.tabtop{
+	height:30px;
+	width:180px;
+	background-color:white;
+	border-radius:5px 5px 0px 0px;
+	text-align: center;
+	margin-left:5px;
+}
+
